@@ -327,3 +327,9 @@
   border: 1px solid #3a3a3a;
   border-radius: 50%;
 }
+
+/* strength section */
+#strength-section {
+  border-bottom: 4px solid #e1e1e1;
+  border-top: 4px solid #e1e1e1;
+}
