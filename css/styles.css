@@ -333,3 +333,9 @@
   border-bottom: 4px solid #e1e1e1;
   border-top: 4px solid #e1e1e1;
 }
+#strength-section .holder {
+  max-width: 990px;
+  margin: 0 auto;
+  padding: 50px 10px 70px;
+  text-align: center;
+}
